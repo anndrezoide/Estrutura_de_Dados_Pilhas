@@ -4,8 +4,10 @@ Projeto destinado a estudo de estrutura de dados desenvolvido durante as aulas n
 
 Classe principal com metodos Push(); Pop(); e Seek();
 Contem 5 exercícios para treinamento da estrutura.
-
-
+</br>
+</br>
+</br>
+</br>
 1 - Escrever um programa que solicite ao usuário uma sequência de caracteres e
 armazene-os em pilha (cada caractere em uma posição da pilha).
 
